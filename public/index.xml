@@ -1,0 +1,89 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>CVRLab Ltd on CVRLab Ltd </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://www.cvrlab.com/</link>
+    
+    <author>George Siogkas</author>
+    
+    <updated>Mon, 01 Jan 0001 00:00:00 UTC</updated>
+    
+    <item>
+      <title></title>
+      <link>http://www.cvrlab.com/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+      <author>George Siogkas</author>
+      <guid>http://www.cvrlab.com/home/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+
+
+&lt;div class=&#34;gallery caption-position-center caption-effect-fade hover-effect-slideup hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
+	  
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;http://www.cvrlab.com/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34; style=&#34;max-width:180px&#34;&gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/homepage/aboutbw.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;http://www.cvrlab.com/img/homepage/aboutbw.jpg&#34; alt=&#34;About us&#34;/&gt;
+    &lt;/div&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;About us&lt;/p&gt;
+      &lt;/figcaption&gt;
+    &lt;a href=&#34;page/about&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;box&#34; style=&#34;max-width:180px&#34;&gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/homepage/work_laptop.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;http://www.cvrlab.com/img/homepage/work_laptop.jpg&#34; alt=&#34;What we do&#34;/&gt;
+    &lt;/div&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;What we do&lt;/p&gt;
+      &lt;/figcaption&gt;
+    &lt;a href=&#34;page/work&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;box&#34; style=&#34;max-width:180px&#34;&gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/homepage/rainy_roadbw_sq_e.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;http://www.cvrlab.com/img/homepage/rainy_roadbw_sq_e.jpg&#34; alt=&#34;Our research&#34;/&gt;
+    &lt;/div&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Our research&lt;/p&gt;
+      &lt;/figcaption&gt;
+    &lt;a href=&#34;page/publications&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;box&#34; style=&#34;max-width:180px&#34;&gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/img/homepage/contact_sq.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;http://www.cvrlab.com/img/homepage/contact_sq.jpg&#34; alt=&#34;Contact us&#34;/&gt;
+    &lt;/div&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Contact us&lt;/p&gt;
+      &lt;/figcaption&gt;
+    &lt;a href=&#34;page/contact&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pages</title>
+      <link>http://www.cvrlab.com/page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+      <author>George Siogkas</author>
+      <guid>http://www.cvrlab.com/page/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

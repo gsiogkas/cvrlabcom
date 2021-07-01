@@ -1,0 +1,97 @@
+baseurl = "http://www.cvrlab.com"
+DefaultContentLanguage = "en"
+#DefaultContentLanguage = "jp"
+title = "CVRLab Ltd"
+theme = "hugo-uno"
+metaDataFormat = "yaml"
+pygmentsUseClasses = true
+pygmentCodeFences = true
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+
+[Params]
+  logo = "img/Logo_grayscale_neg_trans_.png"
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = false
+  comments = false
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+#[[Params.bigimg]]
+#  src = "img/triangle.jpg"
+#  desc = "Triangle"
+#[[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+[Author]
+  name = "George Siogkas"
+  email = "gsiogkas@cvrlab.com"
+  googleplus = "116870559521597742588" # or xxxxxxxxxxxxxxxxxxxxx
+  github = "gsiogkas"
+  linkedin = "georgesiogkas"
+  youtube = "user/GeorgeSiogkas" # or channel/channelname
+  
+[[menu.main]]
+    name = "Blog"
+    url = ""
+    weight = 4
+
+[[menu.main]]
+    name = "About"
+    url = "page/about/"
+    weight = 1
+
+[[menu.main]]
+    name = "Work"
+    url = "page/work"
+    weight = 2
+    
+[[menu.main]]
+    identifier = "research"
+    name = "Research"
+    weight = 3
+
+[[menu.main]]
+    parent = "research"
+    name = "Automotive Computer Vision"
+    url = "page/automotive-computer-vision"
+    weight = 1
+
+[[menu.main]]
+    parent = "research"
+    name = "Deep Learning"
+    url = "page/deep-learning"
+    weight = 2
+
+[[menu.main]]
+    parent = "research"
+    name = "Biomedical engineering"
+    url = "page/biomedical-engineering"
+    weight = 3
+    
+[[menu.main]]
+    parent = "research"
+    name = "Publications"
+    url = "page/publications"
+    weight = 4
+
+[[menu.main]]
+    name = "People"
+    url = "page/people"
+    weight = 4    
+    
+[[menu.main]]
+    name = "Contact"
+    url = "page/contact"
+    weight = 5
+    
+#[[menu.main]]
+#    name = "Tags"
+#    url = "tags"
+#    weight = 6
+

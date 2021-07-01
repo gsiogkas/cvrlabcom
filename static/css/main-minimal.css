@@ -1,0 +1,14 @@
+.main-content {
+  padding-bottom: 50px;
+  background: #000
+}
+
+footer.footer-min {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  padding: 3px;
+  background-color: #101010;
+  border-top: 1px solid #eeeeee;
+  text-align: center;
+}

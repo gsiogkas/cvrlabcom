@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on CVRLab Ltd</title>
+    <link>http://www.cvrlab.com/tags/</link>
+    <description>Recent content in Tags on CVRLab Ltd</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>gsiogkas@cvrlab.com (George Siogkas)</managingEditor>
+    <webMaster>gsiogkas@cvrlab.com (George Siogkas)</webMaster><atom:link href="http://www.cvrlab.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C/C&#43;&#43;</title>
+      <link>http://www.cvrlab.com/tags/c/c&#43;&#43;/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>gsiogkas@cvrlab.com (George Siogkas)</author>
+      <guid>http://www.cvrlab.com/tags/c/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computer vision</title>
+      <link>http://www.cvrlab.com/tags/computer-vision/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>gsiogkas@cvrlab.com (George Siogkas)</author>
+      <guid>http://www.cvrlab.com/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>consulting</title>
+      <link>http://www.cvrlab.com/tags/consulting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>gsiogkas@cvrlab.com (George Siogkas)</author>
+      <guid>http://www.cvrlab.com/tags/consulting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep learning</title>
+      <link>http://www.cvrlab.com/tags/deep-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>gsiogkas@cvrlab.com (George Siogkas)</author>
+      <guid>http://www.cvrlab.com/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>image processing</title>
+      <link>http://www.cvrlab.com/tags/image-processing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>gsiogkas@cvrlab.com (George Siogkas)</author>
+      <guid>http://www.cvrlab.com/tags/image-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>matlab</title>
+      <link>http://www.cvrlab.com/tags/matlab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>gsiogkas@cvrlab.com (George Siogkas)</author>
+      <guid>http://www.cvrlab.com/tags/matlab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>http://www.cvrlab.com/tags/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>gsiogkas@cvrlab.com (George Siogkas)</author>
+      <guid>http://www.cvrlab.com/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>training</title>
+      <link>http://www.cvrlab.com/tags/training/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>gsiogkas@cvrlab.com (George Siogkas)</author>
+      <guid>http://www.cvrlab.com/tags/training/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
